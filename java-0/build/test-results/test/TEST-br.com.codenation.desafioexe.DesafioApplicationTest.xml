@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.desafioexe.DesafioApplicationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-05-01T17:53:28" hostname="DESKTOP-5JFBD78" time="0.004">
+  <properties/>
+  <testcase name="fibonacci" classname="br.com.codenation.desafioexe.DesafioApplicationTest" time="0.003"/>
+  <testcase name="isFibonacci" classname="br.com.codenation.desafioexe.DesafioApplicationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
